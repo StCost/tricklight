@@ -1,0 +1,4 @@
+tricklight.log*
+tricklight.json
+__pycache__/
+*.pyc
