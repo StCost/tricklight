@@ -2,6 +2,8 @@
 
 Small Windows tray app to control a **Trick-xxxx** BLE LED dimmer (the light normally used with the *TrickLight* phone app, `com.qh.onehlight`) from a PC — no phone needed.
 
+Original phone app: [TrickLight download page](https://appstore.fonewe.com/foneweapp/tricklight/d.html) ([Google Play](https://play.google.com/store/apps/details?id=com.qh.onehlight), [APK](https://qh-tek.oss-cn-shenzhen.aliyuncs.com/Tricklight/TrickLight.apk)). The protocol below was taken from it.
+
 ## Features
 - Turns the light **on** (at last brightness, 10% by default) when Windows starts / you log in
 - Turns the light **off** on shutdown, logoff and sleep; back on after resume
